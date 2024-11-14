@@ -1,5 +1,5 @@
 # mutant_detector_parcial
-Instrucciones para ejecutar el programa ParcialDiseño:
+Instrucciones para ejecutar el programa Mutantdetector:
 
 Paso 1
 Instala las dependencias necesarias ejecutando este comando en la terminal:
@@ -25,7 +25,7 @@ http://127.0.0.1:5000/
 Si el programa está dockerizado y alojado en Render, solo abre Postman y utiliza las siguientes URL:
 
     Para la solicitud POST:
-    https://parcialdise-o-1.onrender.com/mutant
+    https://mutantdetector-o-1.onrender.com/mutant
 
     Para la solicitud GET de estadísticas:
-    https://parcialdise-o-1.onrender.com/stats
+    https://mutantdetector-o-1.onrender.com/stats
