@@ -22,7 +22,7 @@ Para consultar estadísticas, selecciona la solicitud GET en Postman para ver el
 Postman funcionará en esta URL local:
 http://127.0.0.1:5000/
 
-Si el programa está dockerizado y alojado en Render, solo abre Postman y utiliza las siguientes URL:
+El programa está dockerizado y alojado en Render, solo abre Postman y utiliza las siguientes URL:
 
     Para la solicitud POST:
     https://parcialdise-o-1.onrender.com/mutant
