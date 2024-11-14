@@ -25,7 +25,7 @@ http://127.0.0.1:5000/
 Si el programa está dockerizado y alojado en Render, solo abre Postman y utiliza las siguientes URL:
 
     Para la solicitud POST:
-    https://mutantdetector-o-1.onrender.com/mutant
+    https://parcialdise-o-1.onrender.com/mutant
 
     Para la solicitud GET de estadísticas:
-    https://mutantdetector-o-1.onrender.com/stats
+    https://mutant-detector-parcial.onrender.com/stats
